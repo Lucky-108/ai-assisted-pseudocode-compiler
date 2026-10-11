@@ -1,0 +1,13 @@
+
+# Build artifacts and generated files
+/build/
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+
